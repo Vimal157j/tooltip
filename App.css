@@ -1,0 +1,39 @@
+.body{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 800px;
+
+  
+}
+
+.styles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+  background-color: hsl(0, 58%, 5%);
+  color: #b21616;
+  border: solid 5px pink;
+  border-radius: 8%;
+  cursor: pointer;
+  /* margin-left:45%; */
+  /* margin-top: 10%; */
+  font-size: larger;
+  font-family: roboto;
+  font-weight: 700;
+  word-spacing: 1%;
+}
+.tooltiptext{
+  width: 400px;
+  height: 200px;
+  color: #110707;
+  /* margin-left: 45%; */
+  font-size: xx-large;
+  font-family: roboto;
+  font-weight: 500;
+  
+}
